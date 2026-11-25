@@ -1,0 +1,20 @@
+[
+  {
+    "id": "gh-50",
+    "name": "น้ำผึ้ง Golden Hive 50 ml",
+    "mood": "50 ml",
+    "size": "50 ml",
+    "price": 99,
+    "image": "images/30 ml.jpg",
+    "description": "น้ำผึ้งแท้ขนาดพกพา เหมาะสำหรับลองชิมครั้งแรก หรือพกไปใช้ระหว่างวัน"
+  },
+  {
+    "id": "gh-100",
+    "name": "น้ำผึ้ง Golden Hive 100 ml",
+    "mood": "100 ml",
+    "size": "100 ml",
+    "price": 199,
+    "image": "images/100 ml.jpg",
+    "description": "น้ำผึ้งแท้ขนาดคุ้มค่า เหมาะสำหรับใช้ที่บ้านทุกวัน หรือเป็นของฝาก"
+  }
+]
